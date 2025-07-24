@@ -1,4 +1,4 @@
-# C++ Learning Adventures: My Journey into the Labyrinth
+# C++ Learning Adventures: My Journey into the realm of "Hard-Coding"
 
 Welcome, traveler, to my personal Colosseum where I'll be wrestling with the beast that is C++. Think of this repository as a public diary of a curious mind diving headfirst into the deep end of programming.
 
